@@ -6,17 +6,10 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>
-         app 1 by GK deploy
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        <h1>My current projects</h1>
+        
+        <a id="lk" href="https://gkapps-calc.netlify.app/">Calculator</a>
+
       </header>
     </div>
   );
