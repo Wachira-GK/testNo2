@@ -9,7 +9,7 @@ function App() {
         <h1>My current projects</h1>
         
         <a id="lk" href="https://gkapps-calc.netlify.app/">Calculator</a>
-
+        <a href="#">Comming Soon...</a>
       </header>
     </div>
   );
